@@ -43,10 +43,9 @@ Users can **register, log in, and manage personal tasks** (create, view, edit, d
 ### Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
-cd <YOUR_REPO_FOLDER>
+git clone https://github.com/sushilkrg/earnest-task-management-system.git
+cd earnest-task-management-system
 ```
-Replace <YOUR_GITHUB_REPO_URL> with your actual repo URL.
 
 ## 3. Backend – Setup & Configuration
 ### 3.1. Backend – Installation
